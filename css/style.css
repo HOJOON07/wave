@@ -1,3 +1,5 @@
+/* 텍스트를 더블클릭하거나 드래그 해도 텍스트가 선택되지 않음. */
+
 * {
   user-select: none;
   -ms-user-select: none;
